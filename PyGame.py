@@ -1,8 +1,6 @@
 import pygame 
-import random
 import serial
 import sys , time
-import serial
 
 
 comport = 'COM5' #Arduino comport
